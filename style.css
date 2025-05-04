@@ -1,0 +1,60 @@
+.navbar {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.navbar.scrolled {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.section-padding {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-title {
+  max-width: 550px;
+  margin: 0 auto 60px auto;
+}
+
+#contact .form-control {
+  border-radius: 0;
+}
+
+#contact .form-control:focus{
+  box-shadow: none;
+  border-color: btn btn-success;
+}
+
+#contact input.form-control{
+  height: 40px;
+}
+
+footer {
+  background-color: darkgreen;
+  padding-top: 85px;
+}
+
+footer h4{
+  color: white;
+}
+footer p,
+footer li,
+footer li a {
+  color: rgba(255,255,255,0,7);
+}
+footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-top {
+  padding-bottom: 40px;
+  border-bottom: 1px rgba(255,255,255,0,2);
+}
+
+.footer-bottom {
+  padding-top: 40px;
+  padding bottom: 40px;
+}
